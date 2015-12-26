@@ -1,0 +1,10 @@
+# Webstorm IDE
+.idea/
+
+# NPM
+node_modules/
+
+# Mac
+.DS_Store
+*/.DS_Store
+*/**/.DS_Store

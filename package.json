@@ -1,0 +1,15 @@
+{
+  "name": "memory-loc-gov-image-previewer",
+  "version": "1.0.2",
+  "description": "Adds a preview image for .tif links on memory.loc.gov ",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alexander Sage <sagezander@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-zip": "^3.0.2"
+  }
+}

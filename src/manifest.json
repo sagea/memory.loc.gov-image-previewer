@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Memory.Loc.Gov Image Previewer",
+  "version": "1.0.2",
+  "icons": {
+    "16": "icon_16.png",
+    "48": "icon_48.png",
+    "128": "icon_128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://memory.loc.gov/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
