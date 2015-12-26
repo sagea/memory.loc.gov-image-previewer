@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 
 
 var urls = {
-    src: 'src/',
+    src: 'src/*',
     build: 'build/'
 };
 
